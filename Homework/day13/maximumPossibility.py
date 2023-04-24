@@ -46,3 +46,24 @@ Explanation 2:
  [1, 2, 3, 4, 5, 6]
 
 """
+# A = [5, 6, -1, 7, 8]
+# A = [1, 2, 3, 4, 5, 6]
+# A = [1, 3, 8, -2, 6, -8, 5]
+A = [ -5173778, -8176176, 1694510, 7089884, -1394259, 1146372, -2502339, 1544618, 6602022, 4330572 ]
+def solve(self, A):
+    A.append(-1)
+    print(A)
+    temp = []
+    answer = []
+    for i in A:
+        if i > 0:
+            temp.append(i)
+        else:
+            if len(temp) > len(answer):
+                answer = temp
+            temp = []
+    print(answer)
+    # return answer
+
+
+solve('data', A)
