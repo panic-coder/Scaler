@@ -45,6 +45,11 @@ Explanation 2:
 The subarrays are :- [1], [0], [1, 0]
 Except the subarray [0] all the other subarrays has a Bitwise OR = 1
 
+
+B = [0,1,0,0,0]
+
+Result = Subarray of B - Subarray of consecutive 0's
+
 """
 
 import math 
