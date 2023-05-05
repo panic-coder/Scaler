@@ -7,3 +7,6 @@ Submitted - day16 - Homework - Single number 3
 04/05/2023
 Submitted - day16 - Homework - Sub array with bitwise OR 1
 
+05/05/2023
+Submitted - day16 - Homework - Unset x bit from right
+
