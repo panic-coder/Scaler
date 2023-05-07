@@ -10,3 +10,8 @@ Submitted - day16 - Homework - Sub array with bitwise OR 1
 05/05/2023
 Submitted - day16 - Homework - Unset x bit from right
 
+06/05/2023
+Submitted - day16 - Homework - Bit Compression
+Submitted - day12 - Assignment - Matrix Multiplication
+
+
