@@ -17,5 +17,8 @@ Submitted - day12 - Assignment - Matrix Multiplication
 07/05/2023
 Submitted - day18 - Assignment - divisible by 8
 
+08/05/2023
+Submitted - day18 - Assignment - A, B modulo
+
 
 
