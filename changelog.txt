@@ -29,3 +29,6 @@ Submitted - day18 - Homework - Concatenate 3 nos
 11/05/2023
 Submitted - day18 - Homework - Overlapping rectangle
 
+12/05/2023
+Submitted - day18 - Homework - LCM and leap year 3
+
