@@ -32,3 +32,12 @@ Submitted - day18 - Homework - Overlapping rectangle
 12/05/2023
 Submitted - day18 - Homework - LCM and leap year 3
 
+13/05/2023
+Submitted - day18 - Homework - Repeating and missing number array
+
+14/05/2023
+Submitted - day20 - Assignment - Majority Element
+
+15/05/2023
+Submitted - day20 - Assignment - N/3 Repeat Number
+
