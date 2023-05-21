@@ -41,3 +41,22 @@ Submitted - day20 - Assignment - Majority Element
 15/05/2023
 Submitted - day20 - Assignment - N/3 Repeat Number
 
+16/05/2023
+Submitted - day21 - Assignment - Reverse of string, Simple reverse, to lower
+
+17/05/2023
+Submitted - day21 - Assignment - toupper , isalnum
+
+18/05/2023
+Submitted - day21 - Homework - Count Occurrences
+
+19/05/2023
+Submitted - day21 - Homework - Amazing Subarrays
+
+20/05/2023
+Submitted - day21 - Homework - Change character
+
+21/05/2023
+Submitted - day21 - Homework - String operation
+
+
