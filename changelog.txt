@@ -65,4 +65,8 @@ Submitted - day21 - Homework - Longest String Prefix
 23/05/2023
 Submitted - day21 - Assignment - Longest palindrome substring
 
+24/05/2023
+Submitted - day20 - Assignment - Monkey and door, 100 people in a circle
+Submitted - day22 - Assignment - Arithmetic progression
+
 
