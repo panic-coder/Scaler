@@ -69,4 +69,7 @@ Submitted - day21 - Assignment - Longest palindrome substring
 Submitted - day20 - Assignment - Monkey and door, 100 people in a circle
 Submitted - day22 - Assignment - Arithmetic progression
 
+25/05/2023
+Submitted - day22 - Assignment - Noble string
+
 
