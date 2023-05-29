@@ -81,3 +81,6 @@ Submitted - day22 - Assignment - sort by color
 28/05/2023
 Submitted - day22 - Homework - Largest number
 
+29/05/2023
+Submitted - day22 - Homework - Element removal
+
