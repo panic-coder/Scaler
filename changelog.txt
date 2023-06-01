@@ -90,3 +90,6 @@ Streak break - 14 to 7
 31/05/2023
 Submitted - day22 - Assignment - common element, largest continuous sum
 
+01/06/2023
+Submitted - day23 - Assignment -  Sub-array with 0 sum
+
