@@ -93,3 +93,6 @@ Submitted - day22 - Assignment - common element, largest continuous sum
 01/06/2023
 Submitted - day23 - Assignment -  Sub-array with 0 sum
 
+02/06/2023
+Submitted - day23 - Assignment -  Shaggy and distance
+
